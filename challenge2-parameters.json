@@ -1,0 +1,13 @@
+[
+    {
+        "ParameterKey": "KeyName",
+        "ParameterValue": "udacity_key",
+        "ResolvedValue": "string"
+      },
+      {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.small",
+        "ResolvedValue": "string"
+      }
+      
+]
